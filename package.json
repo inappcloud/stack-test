@@ -1,0 +1,17 @@
+{
+  "name": "@inappcloud/stack-test",
+  "version": "1.0.0",
+  "description": "Test utilities for stack packages.",
+  "author": "Nicolas Merouze",
+  "license": "MPL-2.0",
+  "homepage": "https://www.inappcloud.com/stack",
+  "bugs": "https://github.com/inappcloud/stack-test/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inappcloud/stack-test"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
